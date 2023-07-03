@@ -1,0 +1,4 @@
+{
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "componentCreatorHelper.language": "ru"
+}
